@@ -1,0 +1,10 @@
+This project is using the profile:
+
+.aws - config
+[profile amplify-rvQGj]
+region=us-east-1
+
+.aws - credentials
+[amplify-rvQGj]
+aws_access_key_id=AKIAQT52KLRLUGHPOUMC
+aws_secret_access_key=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
